@@ -20,5 +20,7 @@
 
 เก็บคะแนนสอบในการเรียนทุกครั้ง
 
+## KU Map Projection QR Code
 
-<img width="980" height="980" alt="KU_MapProjection_big_QR" src="https://github.com/user-attachments/assets/ac8eab69-b6dc-4981-907c-1cd6022a4eb5" />
+![KU Map Projection QR Code](https://raw.githubusercontent.com/phisan-chula/2026-KU_MapProjection/main/KU_MapProjection_big_QR.png)
+
