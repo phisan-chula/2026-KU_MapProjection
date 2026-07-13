@@ -4,7 +4,7 @@ Students attending the class can check in here:
 
 
 ## In Class Exercise
-<p style="color:red;"><strong>EX 4) Derive the Gaussian Fundamental Quantities E, F, G for the Earth Sphere (Datum Surface) on A4 paper.</strong></p>
+![EX 4](https://img.shields.io/badge/EX%204-Derive%20the%20Gaussian%20Fundamental%20Quantities%20E%2C%20F%2C%20G%20for%20the%20Earth%20Sphere-red)
 
 
 ## Professor Geoffrey Hinton - AI and Our Future
