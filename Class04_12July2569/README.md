@@ -7,5 +7,5 @@ Students attending the class can check in here:
 
 ## EX 4) Derive Gaussian Fundamental Quantity E,F,G for Earth Sphere (datum surface) on A4 paper
 
-## What is AI ?
+## Professor Geoffrey Hinton - AI and Our Future
 [Watch the video on YouTube](https://youtu.be/UccvsYEp9yc?si=XAw1v5vGoo7Fs2mM)
