@@ -2,10 +2,8 @@
 
 # 01218332-65 การฉายแผนที่  
 ## Map Projection
-
 **มหาวิทยาลัยเกษตรศาสตร์ บางเขน**  
 **ระดับการศึกษา:** ปริญญาตรี  
-
 **ภาคต้น ปีการศึกษา 2569**
 
 **รองศาสตราจารย์ ดร. ไพศาล สันติธรรมนนท์**
@@ -16,9 +14,9 @@
 
 ## การวัดผลการเรียน
 
-# การวัดผลการเรียนเน้นการมีส่วนร่วม เก็บคะแนนสอบในการเรียนทุกครั้ง  ผลการเรียน/แบบฝึกหัด 70% การเข้าเรียน 30%
+### การวัดผลการเรียนเน้นการมีส่วนร่วม เก็บคะแนนสอบในการเรียนทุกครั้ง  ผลการเรียน/แบบฝึกหัด 70% การเข้าเรียน 30%
 
-[![Open Excel](https://img.shields.io/badge/Open-Score_ClassWork_2026.xlsx-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Score_ClassWork_2026.xlsx)
+[⬇️ Download Excel File](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Score_ClassWork_2026.xlsx?raw=1)
 
 ## KU Map Projection QR Code
 
