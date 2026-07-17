@@ -26,7 +26,7 @@
 
 </div>
 
-## KU Map Projection QR Code
+### 4) KU Map Projection QR Code
 
 ![KU Map Projection QR Code](https://raw.githubusercontent.com/phisan-chula/2026-KU_MapProjection/main/KU_MapProjection_big_QR.png)
 
