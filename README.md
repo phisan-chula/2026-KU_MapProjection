@@ -15,11 +15,10 @@
 ### 2) ผลการเรียน/แบบฝึกหัด 70% และ การเข้าเรียน 30%
 
 ### 3) 📘 Map Projection Exercise Templates
-
-         [⬇️ Click here to download ExerciseTemplate_MP2569.zip](https://github.com/phisan-chula/2026-KU_MapProjection/raw/main/ExerciseTemplate_MP2569.zip)
+## [⬇️ Click here to download ExerciseTemplate_MP2569.zip](https://github.com/phisan-chula/2026-KU_MapProjection/raw/main/ExerciseTemplate_MP2569.zip)
 
 <div style="border:2px solid #2f81f7; border-radius:8px; padding:16px; text-align:center;">
-### 4) สรุปคะแน 📊 Classwork Scores 2026
+### 4) สรุปคะแนน 📊 Classwork Scores 2026
 
 <a href="https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Score_ClassWork_2026.xlsx">
   <strong>🔗 Open Excel Score File</strong>
