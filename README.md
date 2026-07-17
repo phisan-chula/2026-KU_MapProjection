@@ -16,7 +16,15 @@
 
 ### การวัดผลการเรียนเน้นการมีส่วนร่วม เก็บคะแนนสอบในการเรียนทุกครั้ง  ผลการเรียน/แบบฝึกหัด 70% การเข้าเรียน 30%
 
-[⬇️ ผลคะแนนล่าสุด ExcelFile](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Score_ClassWork_2026.xlsx?raw=1)
+<div style="border:2px solid #2f81f7; border-radius:8px; padding:16px; text-align:center;">
+
+### 📊 Classwork Scores 2026
+
+<a href="https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Score_ClassWork_2026.xlsx">
+  <strong>🔗 Open Excel Score File</strong>
+</a>
+
+</div>
 
 ## KU Map Projection QR Code
 
