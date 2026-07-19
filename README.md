@@ -14,19 +14,59 @@
 ### 1) การวัดผลการเรียนเน้นการมีส่วนร่วม เก็บคะแนนสอบในการเรียนทุกครั้ง  
 ### 2) ผลการเรียน/แบบฝึกหัด 70% และ การเข้าเรียน 30%
 
-### 3) 📘 Map Projection Exercise Templates
-## [⬇️ Click here to download ExerciseTemplate_MP2569.zip](https://github.com/phisan-chula/2026-KU_MapProjection/raw/main/ExerciseTemplate_MP2569.zip)
+### 3) [⬇️ Click here to download ExerciseTemplate_MP2569.zip](https://github.com/phisan-chula/2026-KU_MapProjection/raw/main/ExerciseTemplate_MP2569.zip)
 
-<div style="border:2px solid #2f81f7; border-radius:8px; padding:16px; text-align:center;">
-### 4) สรุปคะแนน 📊 Classwork Scores 2026
+### 4) คะแนนนิสิตถึงปัจจุบัน เพื่อนำไปประเมินผลการเรียนทั้งหมด !!!
+> คะแนนเต็มที่ประกาศแล้ว: **12 + 10 = 22 คะแนน**
+| Student ID | Ex.1 | Ex.2 | Ex.3 | Total | Progress |
+|:--|--:|--:|--:|--:|:--|
+| `6610***157` | — | 8 | — | **8** | 🟡 Pending |
+| `6610***165` | — | — | — | **0** | ⚪ No score yet |
+| `6610***173` | — | — | — | **0** | ⚪ No score yet |
+| `6610***181` | 11 | 7 | — | **18** | 🔥 Great Progress |
+| `6610***203` | — | 7 | — | **7** | 🟡 Pending |
+| `6610***220` | — | — | — | **0** | ⚪ No score yet |
+| `6610***238` | — | — | — | **0** | ⚪ No score yet |
+| `6610***254` | 12 | 8 | — | **20** | 🌟 Excellent |
+| `6610***262` | — | 10 | — | **10** | 🟡 Pending |
+| `6610***271` | 12 | 8 | — | **20** | 🌟 Excellent |
+| `6610***289` | — | — | — | **0** | ⚪ No score yet |
+| `6610***327` | — | — | — | **0** | ⚪ No score yet |
+| `6610***153` | 12 | 9 | — | **21** | 🌟 Excellent |
+| `6610***161` | 12 | — | — | **12** | 🟢 Keep Going |
+| `6710***942` | 10 | 7 | — | **17** | 🔥 Great Progress |
+| `6710***951` | 8 | 10 | — | **18** | 🔥 Great Progress |
+| `6710***969` | 11 | 7 | — | **18** | 🔥 Great Progress |
+| `6710***977` | 6 | 7 | — | **13** | 🟢 Keep Going |
+| `6710***985` | 12 | 10 | — | **22** | 🌟 Excellent |
+| `6710***993` | 7 | — | — | **7** | 🟡 Pending |
+| `6710***001` | 7 | 7 | — | **14** | 🟢 Keep Going |
+| `6710***027` | 6 | 10 | — | **16** | 🟢 Keep Going |
+| `6710***035` | 11.5 | 10 | — | **21.5** | 🌟 Excellent |
+| `6710***051` | — | — | — | **0** | ⚪ No score yet |
+| `6710***078` | 12 | 25 | — | **37** | 🌟 Excellent |
+| `6710***086` | 5 | — | — | **5** | 🟡 Pending |
+| `6710***094` | 12 | — | — | **12** | 🟢 Keep Going |
+| `6710***108` | 8 | 10 | — | **18** | 🔥 Great Progress |
+| `6710***124` | 12 | 7 | — | **19** | 🔥 Great Progress |
+| `6710***141` | 11 | 10 | — | **21** | 🌟 Excellent |
+| `6710***167` | — | 10 | — | **10** | 🟡 Pending |
+| `6710***191` | 12 | 10 | — | **22** | 🌟 Excellent |
+| `6710***205` | 11 | 9 | — | **20** | 🌟 Excellent |
+| `6710***213` | 10 | 10 | — | **20** | 🌟 Excellent |
+| `6710***264` | 10 | 7 | — | **17** | 🔥 Great Progress |
+| `6710***272` | 8 | 10 | — | **18** | 🔥 Great Progress |
+| `6710***281` | 5 | 7 | — | **12** | 🟢 Keep Going |
+| `6710***299` | 8 | 10 | — | **18** | 🔥 Great Progress |
+| `6710***329` | 8 | — | — | **8** | 🟡 Pending |
+| `6710***337` | 10 | 7 | — | **17** | 🔥 Great Progress |
+| `6710***345` | 10 | 7 | — | **17** | 🔥 Great Progress |
+| `6710***353` | 11 | 10 | — | **21** | 🌟 Excellent |
+| `6710***361` | 11 | 10 | — | **21** | 🌟 Excellent |
+| `6710***370` | 7 | 7 | — | **14** | 🟢 Keep Going |
+| `6710***388` | 12 | 10 | — | **22** | 🌟 Excellent |
+| `6710***396` | 8 | 10 | — | **18** | 🔥 Great Progress |
 
-<a href="https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Score_ClassWork_2026.xlsx">
-  <strong>🔗 Open Excel Score File</strong>
-</a>
 
-</div>
 
-### 4) KU Map Projection QR Code
-
-![KU Map Projection QR Code](https://raw.githubusercontent.com/phisan-chula/2026-KU_MapProjection/main/KU_MapProjection_big_QR.png)
 
