@@ -10,9 +10,7 @@
 </div>
 
 ---
-
-### 1) การวัดผลการเรียนเน้นการมีส่วนร่วม เก็บคะแนนสอบในการเรียนทุกครั้ง  
-### 2) 📊 Class Performance Summary, 
+### 📊 Class Performance Summary, 
 > Exercise score: **70%** · Attendance score: **30%**
 ### ⭐ [View Class Performance and Scores](./Score_Summary.md)
 
