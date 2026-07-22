@@ -14,6 +14,10 @@
 > Exercise score: **70%** · Attendance score: **30%**
 ### ⭐ [View Class Performance and Scores](./Score_Summary.md)
 
+## Grand Total Score Distribution
+
+![Grand Total Histogram](https://raw.githubusercontent.com/phisan-chula/2026-LDP_Seminar/main/Grand_Total_Histogram.png)
+```
 
 
 
