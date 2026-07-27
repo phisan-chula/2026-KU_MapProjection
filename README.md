@@ -16,7 +16,8 @@
 
 ## Grand Total Score Distribution
 
-![Grand Total Histogram](https://raw.githubusercontent.com/phisan-chula/2026-LDP_Seminar/main/Grand_Total_Histogram.png)
+![Grand Total Histogram](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Grand_Total_Histogram.png)
+
 ```
 
 
