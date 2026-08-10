@@ -12,10 +12,7 @@
 ---
 ### 📊 Class Performance Summary, 
 > Exercise score: **70%** · Attendance score: **30%**
-### ⭐ [View Class Performance and Scores](./Score_Summary.md)
-
-## Grand Total Score Distribution
-
+### ⭐ [View Class Performance and Scores - CLICK HERE](./Score_Summary.md)
 ![Grand Total Histogram](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Grand_Total_Histogram.png)
 
 ```
