@@ -1,4 +1,5 @@
 from pathlib import Path
+from datetime import date
 from numbers import Number
 import math
 import statistics
@@ -740,6 +741,8 @@ def main():
     # Create compact GitHub Markdown
     # --------------------------------------------------------
 
+    current_date = "11 Aug 2026"
+
     markdown_lines = [
         "# Class Performance Summary",
         "",
@@ -755,6 +758,11 @@ def main():
             f"Students = {total_students} · "
             f"Mean = {mean_score:.2f} · "
             f"SD = {standard_deviation:.2f} (population)"
+        ),
+        "",
+        (
+            f'## <span style="color:red">'
+            f'Score Distribution until {current_date} !!!</span>'
         ),
         "",
         "![Grand Total score histogram](Grand_Total_Histogram.png)",

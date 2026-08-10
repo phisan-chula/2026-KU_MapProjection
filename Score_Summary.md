@@ -4,6 +4,8 @@
 
 **Grand Total statistics:** Students = 46 · Mean = 70.05 · SD = 27.72 (population)
 
+## <span style="color:red">Score Distribution until 11 Aug 2026 !!!</span>
+
 ![Grand Total score histogram](Grand_Total_Histogram.png)
 
 | <sub>No.</sub> | <sub>Student ID</sub> | <sub>Name</sub> | <sub>Exercise</sub> | <sub>Exercise 70%</sub> | <sub>Attendance</sub> | <sub>Attendance 30%</sub> | <sub>Grand Total</sub> | <sub>Performance</sub> |
