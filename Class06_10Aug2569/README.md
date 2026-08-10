@@ -6,7 +6,7 @@
 
 ตัวอย่างรูปแบบการแสดงผลสามารถดูได้จากภาพ:
 
-<p align="center"> <img src="tissot_Mercator.png" width="25%"> </p>
+<p align="center"> <img src="tissot_Mercator.png" width="100%"> </p>
 
 ---
 
