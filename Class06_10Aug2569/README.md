@@ -6,7 +6,7 @@
 
 ตัวอย่างรูปแบบการแสดงผลสามารถดูได้จากภาพ:
 
-[tissot_Mercator.png](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Class06_10Aug2569/tissot_Mercator.png)
+<p align="center"> <img src="tissot_Mercator.png" width="25%"> </p>
 
 ---
 
