@@ -318,10 +318,13 @@ def create_grand_total_histogram(grand_totals, output_path):
             label=f"Mean ± 1 SD ({standard_deviation:.2f})",
         )
 
+    current_date = f"{date.today().day} {date.today().strftime('%b %Y')}"
+
     axis.set_title(
-        "Distribution of Grand Total Scores",
+        f"Score Distribution until {current_date} !!!",
         fontsize=15,
         fontweight="bold",
+        color="red",
         pad=30,
     )
     axis.text(
@@ -741,7 +744,7 @@ def main():
     # Create compact GitHub Markdown
     # --------------------------------------------------------
 
-    current_date = "11 Aug 2026"
+    current_date = f"{date.today().day} {date.today().strftime('%b %Y')}"
 
     markdown_lines = [
         "# Class Performance Summary",
