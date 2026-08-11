@@ -1,4 +1,4 @@
-# แบบฝึกหัดที่ 6: Map Distortion and Tissot Indicatrix
+# แบบฝึกหัดที่ 6: Map Distortion and Tissot Indicatrix ( ส่ง ศุกร์ 14 สิงหาคม 2569 ก่อน 11:00 น )
 
 ## วัตถุประสงค์
 
