@@ -63,6 +63,7 @@ Standard Parallel มีความสำคัญต่อการควบ�
 ```text
 Standard Parallel 1 = 10°N
 Standard Parallel 2 = 30°N
+
 ```
 กรณี B (หน้า 2)
 ```text
@@ -75,6 +76,8 @@ Standard Parallel 2 = 25°N
 การเลือก Standard Parallel ที่แตกต่างกันเหมาะสมกับพื้นที่ลักษณะใด
 ---
 5. สิ่งที่ต้องแสดงในรูป
+![LCC 2SP 10-30](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Class07_24Aug2026/LCC_2SP_10_30.png?raw=true)
+
 รูปแผนที่อย่างน้อย 2 รูป แต่ละรูปต้องประกอบด้วย
 ชื่อ Projection
 Central Meridian
