@@ -1,4 +1,4 @@
-# แบบฝึกหัด: Planar (Azimuthal) Map Projections และ Tissot Indicatrix
+# แบบฝึกหัด 08 : Planar (Azimuthal) Map Projections และ Tissot Indicatrix
 
 ## วัตถุประสงค์
 
@@ -39,7 +39,7 @@ $$
 
 ---
 
-# งานที่ 1: Stereographic Projection
+# งานที่ 1: Stereographic Projection ( แสดงสมการ )
 
 สร้างแผนที่โลกเต็มใบด้วย
 
@@ -80,7 +80,8 @@ rad_km = 300
 
 ---
 
-# งานที่ 2: Lambert Azimuthal Equal-Area Projection
+
+# งานที่ 2: Lambert Azimuthal Equal-Area Projection  ( แสดงสมการ )
 
 เปลี่ยน Projection เป็น
 
@@ -111,7 +112,7 @@ ax.set_global()
 
 ---
 
-# งานที่ 3: Azimuthal Equidistant Projection
+# งานที่ 3: Azimuthal Equidistant Projection  ( แสดงสมการ )
 
 เปลี่ยน Projection เป็น
 
