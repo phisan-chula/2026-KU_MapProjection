@@ -59,6 +59,8 @@ Compare the distortion pattern with Zone 47N.
 ## Part 2 — Individual 1-km Test Line
 
 Each student selects one 1-km line from the provided dataset.
+https://github.com/phisan-chula/2026-EIT_TH_LDP
+ISO_1  = TH-{ ลำดับ + 10 }
 
 Using Python:
 
