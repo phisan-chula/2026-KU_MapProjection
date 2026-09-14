@@ -1,4 +1,4 @@
-# Hands-on: UTM Zones 47N and 48N
+# Hands-on 10 : UTM Zones 47N and 48N
 
 **Platform:** Google Colab + Python/Cartopy
 **Topic:** UTM projection and map distortion
