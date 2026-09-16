@@ -16,6 +16,7 @@
 
 ### ตอนที่ 1: การสำรวจข้อมูลสนามบินและทางวิ่ง
 1. เลือกสนามบินในประเทศไทยจำนวน 1 แห่ง จากนั้นเปิด Google Maps หรือ Google Earth เพื่อตรวจสอบที่ตั้ง
+   ลำดับนิสิต เลือก ลำดับสนามบินจาก ตารางนี้ [ThaiAirStrip.csv.txt](https://github.com/phisan-chula/2026-KU_MapProjection/blob/main/Class11_21Sept2569/ThaiAirStrip.csv.txt)
 2. บันทึกข้อมูลและตอบคำถาม:
    * **ชื่อสนามบิน:** 
    * **จังหวัดที่ตั้ง:** 
