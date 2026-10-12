@@ -64,10 +64,12 @@ Web mapping platforms (OpenStreetMap, Google Maps, Mapbox) adopt a modified Merc
 
 ## 3. Laboratory Tasks
 
-Plot Thailand and its neighbours boundaries
-Plot graticule @1 degree or appropriate
-Plot Tissot Indicatrix R@20km or appropriate
-Annotate all necessaries
+- Plot Thailand and its neighbours boundaries
+- Plot graticule @1 degree or appropriate
+- Plot Tissot Indicatrix R@20km or appropriate
+- Annotate all necessaries
+
+- Using the assigned geographic coordinates of the beginning and end of a runway in your province, calculate their projected coordinates using the three map projections. Determine the runway length in each projection and compare the differences, using Mercator as the reference projection.
 
 
 ---
