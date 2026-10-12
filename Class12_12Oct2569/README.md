@@ -61,24 +61,11 @@ Web mapping platforms (OpenStreetMap, Google Maps, Mapbox) adopt a modified Merc
 
 ## 3. Laboratory Tasks
 
-### Task 1: Analytical Derivations
-1. Prove step-by-step that the condition $Y(\varphi_{\max}) = \pi R$ yields $\varphi_{\max} \approx 85.051129^\circ$.
-2. Derive the expression for the differential surface area on a sphere $dA_{\text{sphere}} = R^2 \cos\varphi \, d\varphi \, d\lambda$, and verify that the ratio $\frac{dA_{\text{proj}}}{dA_{\text{sphere}}}$ matches the areal distortion $s = \sec^2\varphi$ for Spherical Mercator.
+Plot Thailand and its neighbours boundaries
+Plot graticule @1 degree or appropriate
+Plot Tissot Indicatrix R@20km or appropriate
+Annotate all necessaries
 
----
-
-### Task 2: Distortion Analysis & Tabulation
-Given $R = 6371\text{ km}$, evaluate $Y$, scale factor $k$, and areal factor $s$ at the latitudes specified in the table below.
-
-| Latitude ($\varphi$) | Plate Carrée $Y$ (km) | Mercator $Y$ (km) | Plate Carrée $k$ | Mercator $k$ | Plate Carrée Area Factor ($s$) | Mercator Area Factor ($s$) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $0^\circ$ (Equator) | `0.0` | `0.0` | `1.000` | `1.000` | `1.000` | `1.000` |
-| $15^\circ$ (Low Latitude) | | | | | | |
-| $45^\circ$ (Mid Latitude) | | | | | | |
-| $60^\circ$ (Sub-polar) | | | | | | |
-| $85.051129^\circ$ (Cutoff) | | | | | | |
-
-*Complete the blank entries in your lab submission.*
 
 ---
 
