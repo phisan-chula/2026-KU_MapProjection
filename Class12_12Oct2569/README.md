@@ -1,7 +1,5 @@
 # Lab Assignment 12 : Comparative Metric Distortion in Cylindrical & Web Projections
 
-**Course:** Advanced Geomatics & Mathematical Cartography  
-**Instructor:** Cartography & Geodesy Division  
 **Model Parameters:** Spherical Earth ($R = 6371\text{ km}$, $e = 0$)  
 
 ---
