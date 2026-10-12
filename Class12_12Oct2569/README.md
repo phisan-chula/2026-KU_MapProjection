@@ -1,4 +1,4 @@
-# Lab Assignment: Comparative Metric Distortion in Cylindrical & Web Projections
+# Lab Assignment 12 : Comparative Metric Distortion in Cylindrical & Web Projections
 
 **Course:** Advanced Geomatics & Mathematical Cartography  
 **Instructor:** Cartography & Geodesy Division  
