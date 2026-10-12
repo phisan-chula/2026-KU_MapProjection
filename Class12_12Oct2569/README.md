@@ -74,11 +74,3 @@ Web mapping platforms (OpenStreetMap, Google Maps, Mapbox) adopt a modified Merc
 
 ---
 
-
-
----
-
-## 5. Submission Requirements
-
-- **File 1:** `Lab_Report.pdf` (Calculations, filled comparative table, generated plots, and answers to Section 4).
-- **File 2:** `distortion_analysis.py` (Reproducible script generating the figures and table values).
