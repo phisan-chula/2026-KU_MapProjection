@@ -14,6 +14,9 @@ In modern geospatial analysis and web GIS, coordinates are regularly transformed
 2. **True Spherical Mercator** (Analytic conformal cylindrical projection)
 3. **Pseudo / Web Mercator** (Spherical conformal formulation constrained to a square map canvas for quadtree tiling)
 
+Central Meridian :  Longitude (λ): 101.0° E
+Starting Parallel :  Latitude (φ): 0.0° 
+
 ### Learning Outcomes
 By completing this assignment, students will be able to:
 - Formulate forward equations and inverse cutoff equations for cylindrical projections.
